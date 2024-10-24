@@ -1,103 +1,103 @@
 [[libseccomp]]
 arch = "aarch64"
-git-tree-sha1 = "1c568e961ed100b27660cdd52ba1d43e4fcc699e"
+git-tree-sha1 = "4a03505a9a8eb3b121142fa808d5d3e0918a81b3"
 libc = "glibc"
 os = "linux"
 
     [[libseccomp.download]]
-    sha256 = "d684a41ae29f4fbc331a1f77ca0c91a23b7ba2b4534e03a15206e13d9a86b07a"
-    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.4+0/libseccomp.v2.5.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "9d378346f5d48c79d1b072759724d6aa646efd2602013642cdb9b0b61717c74a"
+    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.5+0/libseccomp.v2.5.5.aarch64-linux-gnu.tar.gz"
 [[libseccomp]]
 arch = "aarch64"
-git-tree-sha1 = "4eddf873ba81a9f04d6f03e08148048c2e1d0e08"
+git-tree-sha1 = "8f398a8c473ea551c5067f9de535f654c8be0c73"
 libc = "musl"
 os = "linux"
 
     [[libseccomp.download]]
-    sha256 = "869e7cd772a0cc7abf57f925112f13dad46f31204cece52c3dfbbaf67c8ba03e"
-    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.4+0/libseccomp.v2.5.4.aarch64-linux-musl.tar.gz"
+    sha256 = "827eb9bc0b634b52c366b32cb037509f58f053539b7120ecbaa6520eb2be3b99"
+    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.5+0/libseccomp.v2.5.5.aarch64-linux-musl.tar.gz"
 [[libseccomp]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "dbedae8946fd005eb8f626746dc667a9500ce314"
+git-tree-sha1 = "946f6267a235fa9ce808890cfcc73d4ea863c217"
 libc = "glibc"
 os = "linux"
 
     [[libseccomp.download]]
-    sha256 = "5f52636d7a4b8e21bbab32a7215659194305776caa94c0aaf61242a690c83d91"
-    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.4+0/libseccomp.v2.5.4.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "e2f87f410453c0fde3206c078571c6f2bb0884ded1238b7cac84b9bd51f71a2c"
+    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.5+0/libseccomp.v2.5.5.armv6l-linux-gnueabihf.tar.gz"
 [[libseccomp]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "6ff1991e0ce65e00a3451b5483e41ad8fdf39b7c"
+git-tree-sha1 = "e603e70bcd192edd0215752931fe5ace4b16026b"
 libc = "musl"
 os = "linux"
 
     [[libseccomp.download]]
-    sha256 = "c5db87afcb64c5401596c2c311dcb9ae96a923171450bcc0a3bb389fac364180"
-    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.4+0/libseccomp.v2.5.4.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "5df0a5ce8d83acbb212bb7df26489ddea1e9e431c8c605df1a174298c241893e"
+    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.5+0/libseccomp.v2.5.5.armv6l-linux-musleabihf.tar.gz"
 [[libseccomp]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "23ee38bc70b1d1cfa3210531fdc6a1690ab542d0"
+git-tree-sha1 = "5b50b0c64f5bd835dd49c4cd203549547bda37ec"
 libc = "glibc"
 os = "linux"
 
     [[libseccomp.download]]
-    sha256 = "6258da5c426f358267cd88e82fae5d1e349ac78cdcf2f64b330cd09a24b7b616"
-    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.4+0/libseccomp.v2.5.4.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "1b49e4602eb6c9d5cd95e70755358ae8522255434ddda84b570b625d068506a4"
+    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.5+0/libseccomp.v2.5.5.armv7l-linux-gnueabihf.tar.gz"
 [[libseccomp]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "898235074724583a1055b85fbe87ac165cf38c18"
+git-tree-sha1 = "f5b7fdb4b68ecd92bce4363c28ef00d1ffac2507"
 libc = "musl"
 os = "linux"
 
     [[libseccomp.download]]
-    sha256 = "652ed132d53afb770d2f08476b39924e6191eb62a8922a27dd89d35054d4a07b"
-    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.4+0/libseccomp.v2.5.4.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "b4ba643aa09a0acd844169257da450d7c1a425505f6582ca81316def5367298b"
+    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.5+0/libseccomp.v2.5.5.armv7l-linux-musleabihf.tar.gz"
 [[libseccomp]]
 arch = "i686"
-git-tree-sha1 = "79a61255dbcf7cd12de1860954d39891fbfa8fbf"
+git-tree-sha1 = "fa87a72de0a5f854d384a9a072cc58bfebb0f1af"
 libc = "glibc"
 os = "linux"
 
     [[libseccomp.download]]
-    sha256 = "27c6c7678084382ca8644d0a514e28715ea2c641901e2dfcb2d6fb9e34c646ea"
-    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.4+0/libseccomp.v2.5.4.i686-linux-gnu.tar.gz"
+    sha256 = "c1b305f6f559aac1b72f708b0a4e5511e70e27addb5841a2bec194c87aa4d1e6"
+    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.5+0/libseccomp.v2.5.5.i686-linux-gnu.tar.gz"
 [[libseccomp]]
 arch = "i686"
-git-tree-sha1 = "b374cb7cf1d3c2cda9c28c96bd7aba7d7b1672a1"
+git-tree-sha1 = "8f893b7254dc1a4bcde5c4997cb4ba6c7548c8c5"
 libc = "musl"
 os = "linux"
 
     [[libseccomp.download]]
-    sha256 = "9b4180bd127359b32543be76c8cdc12ff0ad7290149b003a630e5221a34075e7"
-    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.4+0/libseccomp.v2.5.4.i686-linux-musl.tar.gz"
+    sha256 = "97184ee5a69558d517b6c7cbd0306d25ff2a7bf9b4b4d5235495803bd6004e63"
+    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.5+0/libseccomp.v2.5.5.i686-linux-musl.tar.gz"
 [[libseccomp]]
 arch = "powerpc64le"
-git-tree-sha1 = "03ef58a1e1b89b109a65900d7c9353f460b584a7"
+git-tree-sha1 = "430abb2bfa33459f7000181176b63e97f0a2b144"
 libc = "glibc"
 os = "linux"
 
     [[libseccomp.download]]
-    sha256 = "5fec1673f6970ba8c5a1053b666f205d9bf11a263afd44aab1f4dd9a106f692b"
-    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.4+0/libseccomp.v2.5.4.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b572fdd82b765181186d8d8d5798ce4cdb27dbbe3faece5ae7c9b6474b64c534"
+    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.5+0/libseccomp.v2.5.5.powerpc64le-linux-gnu.tar.gz"
 [[libseccomp]]
 arch = "x86_64"
-git-tree-sha1 = "d7f343f79a558bec4e15770f819cd7bd003f6244"
+git-tree-sha1 = "d4b83da3ec60378f1930407c1acbb494671c2266"
 libc = "glibc"
 os = "linux"
 
     [[libseccomp.download]]
-    sha256 = "93d4a91f873dc99ae7a91344cdd1bfe5622b51e0656cd8a310b35f3c82b64e9a"
-    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.4+0/libseccomp.v2.5.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "1e46f4f76eb89596064f28852e7f3182b95a6c8d9301fece098135041ac7f2c9"
+    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.5+0/libseccomp.v2.5.5.x86_64-linux-gnu.tar.gz"
 [[libseccomp]]
 arch = "x86_64"
-git-tree-sha1 = "b4d4d910a8b797020908d25545a37f471d6f3955"
+git-tree-sha1 = "c18a753087fec282c10a583a0c670b4995dbe3fc"
 libc = "musl"
 os = "linux"
 
     [[libseccomp.download]]
-    sha256 = "ec2b2fcc5fdd7f58893126af9017a4ab690ec38d69dd443d0b666554fd1219f8"
-    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.4+0/libseccomp.v2.5.4.x86_64-linux-musl.tar.gz"
+    sha256 = "13c459357cae480ea432e984e3f1ff5a1e047b7a5a97dfd7e94ff790a0872a66"
+    url = "https://github.com/JuliaBinaryWrappers/libseccomp_jll.jl/releases/download/libseccomp-v2.5.5+0/libseccomp.v2.5.5.x86_64-linux-musl.tar.gz"
